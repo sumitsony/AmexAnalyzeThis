@@ -26,5 +26,5 @@ c	Application and bureau data
 
 And Results, Drum Roll Plz
 
-|[]rank43.png
+![](rank43.png)
 
