@@ -24,4 +24,7 @@ c	Application and bureau data
 3.	Evaluation_dataset.csv: This data has applicant level data along with all the variables in the training dataset. The actual performance i.e. default tagging is not present in this data.
 4.	Data_Dictionary.xlsx: This sheet will give you the description of all the variables contained in the 3 datasets above.  
 
+And Results, Drum Roll Plz
+
+|[]rank43.png
 
