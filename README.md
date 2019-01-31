@@ -22,6 +22,6 @@ b	Performance in terms of default tagging i.e. 1 for default and 0 for no defaul
 c	Application and bureau data
 2.	Leaderboard_dataset.csv: This data has historical applicant level data along with all the variables in the training dataset. The actual performance i.e. default tagging is not present in this data.
 3.	Evaluation_dataset.csv: This data has applicant level data along with all the variables in the training dataset. The actual performance i.e. default tagging is not present in this data.
-4.	Data_Dictionary.xlsx: This sheet will give you the description of all the variables contained in the 3 datasets above. 
+4.	Data_Dictionary.xlsx: This sheet will give you the description of all the variables contained in the 3 datasets above.  
 
 
