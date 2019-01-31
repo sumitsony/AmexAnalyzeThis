@@ -8,7 +8,7 @@ At the time of launch of credit card, Banco earmarked a budget of $ 50,000 for p
 
 And Results, Drum Roll Plz
 
-                                                      ![](rank43.png)
+                                                      ![](rank43.PNG)
 
 Problem Statement
 You have to create a list of applications in the order in which Banco should process them. With an objective to maintain healthy financials, Banco would like to process least risky applications first. Against each application, you also have to provide your prediction of default - 1 or 0, where 1 indicates a default and 0 indicates no default.
