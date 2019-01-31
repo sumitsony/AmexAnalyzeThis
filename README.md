@@ -6,6 +6,10 @@ An individual can apply for only one of the two types of credit card on offer. I
 Banco has hired you to help underwrite each applicant and predict the credit worthiness of an individual. Banco has provided you with the customer application and bureau data with the default tagging i.e., if a customer has missed cumulative of 3 payments across all open trades, his default indicator is 1 else 0. Data consists of independent variables at the time T0 and the actual performance of the individual (Default/ Non Default) after 12 months i.e., at time T12. Banco’s expectation from you is to predict if an applicant will go default in next 12 months from the time of application submission.
 At the time of launch of credit card, Banco earmarked a budget of $ 50,000 for processing the applications. After 12 months, Banco is keen to know if it had processed the right applications. If you predicted that the applicant will not default and the applicant actually does not default after 12 months, then Banco assigns a retrospective processing charge of $ 5. In every other case, Banco assigns a charge of $ 10.
 
+And Results, Drum Roll Plz
+
+                                                      ![](rank43.png)
+
 Problem Statement
 You have to create a list of applications in the order in which Banco should process them. With an objective to maintain healthy financials, Banco would like to process least risky applications first. Against each application, you also have to provide your prediction of default - 1 or 0, where 1 indicates a default and 0 indicates no default.
 
@@ -24,7 +28,5 @@ c	Application and bureau data
 3.	Evaluation_dataset.csv: This data has applicant level data along with all the variables in the training dataset. The actual performance i.e. default tagging is not present in this data.
 4.	Data_Dictionary.xlsx: This sheet will give you the description of all the variables contained in the 3 datasets above.  
 
-And Results, Drum Roll Plz
 
-![](rank43.png)
 
