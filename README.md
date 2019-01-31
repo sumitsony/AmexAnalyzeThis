@@ -24,26 +24,20 @@ c	Application and bureau data
 3.	Evaluation_dataset.csv: This data has applicant level data along with all the variables in the training dataset. The actual performance i.e. default tagging is not present in this data.
 4.	Data_Dictionary.xlsx: This sheet will give you the description of all the variables contained in the 3 datasets above.  
 
-And Results, Drum Roll Plz
-
-                                                      
-                                                      
-                                                      
-                                                      
-                                                      
-                                                      
-                                                      
-                                                      
-                                                      
-                                                      
-                                                      
-                                                      
-                                                      
-                                                      
-                                                      
+And Results, Drum Roll Plz           
                                                       ![](rank43.png)
+                                                     
                                                       
-                                                      
+# Evaluation criteria
+The main operational expense for the bank is marginal cost incurred in processing each application. Processing one application increases expense by $5 / $10. For each application, the bank has the prediction result – default / non-default – as predicted by you. With a fixed budget of $ 50,000, you can maximize the bank’s profit by processing applications where the applicant will not default. 
+
+Your leader board submission will be evaluated as:
+1.	You start with a budget of $ 50,000. 
+2.	Each application processed will reduce the remaining budget by $5 / $10 as explained below. 
+3.	Evaluation will be done in the order of your submission file. 
+4.	Evaluation will stop once the budget runs out.
+
+                                                     
                                                       
                                                       
                                                       
